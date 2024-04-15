@@ -1,0 +1,6 @@
+@RateLimitting.Net8._0_HostAddress = http://localhost:5059
+
+GET {{RateLimitting.Net8._0_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
